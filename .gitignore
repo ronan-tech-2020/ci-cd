@@ -1,0 +1,5 @@
+# terraform related
+**/*.tfstate
+**/*.tfstate.*
+**/.terraform/**
+**/.terraform.*
